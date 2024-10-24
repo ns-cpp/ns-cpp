@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ns-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="ns-cpp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ns-cpp" alt="ns-cpp" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ns-cpp&show_icons=true&theme=onedark&locale=en" alt="ns-cpp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-cpp&theme=dark" alt="ns-cpp" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ns-cpp" alt="ns-cpp" /></a> </p>
