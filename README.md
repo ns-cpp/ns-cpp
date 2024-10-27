@@ -19,6 +19,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-cpp&theme=dark" alt="ns-cpp" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-cpp&theme=dark" alt="ns-cpp" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ns-cpp" alt="ns-cpp" /></a> </p>
 
