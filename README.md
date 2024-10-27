@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 'el ns aka ns.cpp</h1>
+<h1 align="center">🥷🏼</h1>
 <h3 align="center">"Wait. That's illegal."</h3>
 
 
