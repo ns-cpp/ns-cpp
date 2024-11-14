@@ -1,3 +1,4 @@
+[![Image](https://i.hizliresim.com/pzaap00.gif)](https://hizliresim.com/pzaap00)
 ```bash 
 c\system\notporn>cd..
 c\system\notporn>cd tools
@@ -12,6 +13,7 @@ ___________\/\\\___/\\________/\\\__\///////////\\\//__\//\\\______/\\\__
 ____________\/\\\__\//\\\\\\\\\\\/_____________\/\\\_____\///\\\\\\\\\/___ 
 _____________\///____\///////////_______________\///________\/////////_____
 ```
+
 
     
 
@@ -32,5 +34,7 @@ _____________\///____\///////////_______________\///________\/////////_____
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-cpp&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ns-cpp" /></p>
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-cpp&theme=dark" alt="ns-cpp" /></p>
+
+
 
 
